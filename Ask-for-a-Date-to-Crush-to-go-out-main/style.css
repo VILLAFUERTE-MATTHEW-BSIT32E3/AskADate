@@ -1,0 +1,164 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+    background: linear-gradient(rgb(99, 7, 185), rgb(130, 62, 185));
+  }
+  
+  #noButton {
+    position: absolute;
+    margin-left: 300px;
+    transition: 0.5s;
+    margin-top: 25.5px;
+    font-size: 50px;
+  }
+
+  #Sat {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    font-size: 50px;
+  }
+
+  #Sun {
+    padding-left: 33px;
+    padding-right: 33px;
+    margin-left: 30px;
+    font-size: 50px;
+  }
+
+  #yesButton {
+    position: initial;
+    margin-left: 55px;
+    margin-top: 30px;
+  }
+
+  #indexy {
+    position: absolute;
+    margin-right: 10px;
+    margin-left: -400px;
+    margin-top: 25.5px;
+    font-size: 50px;
+  }
+
+  #Sandoy {
+    margin-left: 40px;
+    padding-right: 30px; 
+    margin-left: 30px;
+    font-size: 50px;
+  }
+
+  #Satordoy {
+    margin-left: 20px;
+    font-size: 50px;
+  }
+
+  h1  {
+    text-align: center;
+    font-size: 200px;
+    font-weight: bold;
+  }
+  
+  .header_text {
+    font-family: "Nunito";
+    font-size: 50px;
+    font-weight: bold;
+  
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  .text {
+    font-family: "Nunito";
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .btn {
+    background-color: #4c64e9;
+    color: white;
+    font-weight: 600;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 3px black;
+  }
+  
+  .btn:hover {
+    background-color: #ffffff;
+    color: #100dc9;
+  }
+
+  .cateye {
+    margin-left: .01rem;
+    margin-bottom: 50px;
+    width: 800px;
+    height: auto;
+  }
+ 
+  .smallpepeshades {
+    position: relative;
+    margin-left: -25px;
+    margin-bottom: 50px;
+    width: 600px;
+    height: auto;
+  }
+
+  .crazyeye {
+    margin-bottom: 50px;
+    width: 600px;
+    height: auto;
+  }
+
+  .winku {
+    width: 600px;
+    height: auto;
+    margin-left: 30px;
+  }
+
+  .excited {
+    margin-left: 30px;
+    width: 800px;
+    height: auto;
+  }
+
+  .yeah {
+    margin-left: -10px;
+    width: 800px;
+    height: auto;
+  }
+
+  p {
+    color: white;
+    margin-left: 50%;
+  }
+  p a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 0.25;
+  }
+  
